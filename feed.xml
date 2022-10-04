@@ -3,12 +3,36 @@
     <title>REDMAGIC 5G/5S</title>
     <link href="https://haruo75.github.io/redmagic/feed.xml" rel="self" />
     <link href="https://haruo75.github.io/redmagic" />
-    <updated>2022-10-04T17:44:25+08:00</updated>
+    <updated>2022-10-04T18:02:45+08:00</updated>
     <author>
         <name>Gabriel</name>
     </author>
     <id>https://haruo75.github.io/redmagic</id>
 
+    <entry>
+        <title>Unbrick Tools</title>
+        <author>
+            <name>Gabriel</name>
+        </author>
+        <link href="https://haruo75.github.io/redmagic/unbrick-tools.html"/>
+        <id>https://haruo75.github.io/redmagic/unbrick-tools.html</id>
+
+        <updated>2022-10-04T18:02:04+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tools</title>
+        <author>
+            <name>Gabriel</name>
+        </author>
+        <link href="https://haruo75.github.io/redmagic/tools.html"/>
+        <id>https://haruo75.github.io/redmagic/tools.html</id>
+
+        <updated>2022-10-04T18:01:45+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Custom ROM</title>
         <author>
@@ -17,7 +41,7 @@
         <link href="https://haruo75.github.io/redmagic/custom-rom.html"/>
         <id>https://haruo75.github.io/redmagic/custom-rom.html</id>
 
-        <updated>2022-10-04T17:38:45+08:00</updated>
+        <updated>2022-10-04T18:02:39+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,16 +53,14 @@
         <link href="https://haruo75.github.io/redmagic/redmagic-5g5s.html"/>
         <id>https://haruo75.github.io/redmagic/redmagic-5g5s.html</id>
 
-        <updated>2022-10-04T17:44:25+08:00</updated>
+        <updated>2022-10-04T18:02:45+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://haruo75.github.io/redmagic/media/posts/2/cd.png" alt="" />
                     OFFICIAL ROM NON-EU V868 MD5:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://haruo75.github.io/redmagic/media/posts/2/cd.png" alt="" />
                 <h1><strong>OFFICIAL ROM</strong></h1>
 <h2>NON-EU</h2>
 <h4><a href="https://rom.download.nubia.com/Europe%26Asia/NX659_V1S/V868/NX659J-update.zip" target="_blank" rel="noopener noreferrer">V868</a> <code>MD5: 3ef3171519fe5b16c3662716e682f2d0</code></h4>
