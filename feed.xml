@@ -3,45 +3,54 @@
     <title>REDMAGIC 5G/5S</title>
     <link href="https://haruo75.github.io/redmagic/feed.xml" rel="self" />
     <link href="https://haruo75.github.io/redmagic" />
-    <updated>2022-10-04T18:02:45+08:00</updated>
+    <updated>2022-10-04T18:22:59+08:00</updated>
     <author>
         <name>Gabriel</name>
     </author>
     <id>https://haruo75.github.io/redmagic</id>
 
     <entry>
-        <title>Unbrick Tools</title>
+        <title>UNBRICKS TOOLS</title>
         <author>
             <name>Gabriel</name>
         </author>
         <link href="https://haruo75.github.io/redmagic/unbrick-tools.html"/>
         <id>https://haruo75.github.io/redmagic/unbrick-tools.html</id>
 
-        <updated>2022-10-04T18:02:04+08:00</updated>
+        <updated>2022-10-04T18:22:59+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Tools</title>
+        <title>TOOLS</title>
         <author>
             <name>Gabriel</name>
         </author>
         <link href="https://haruo75.github.io/redmagic/tools.html"/>
         <id>https://haruo75.github.io/redmagic/tools.html</id>
 
-        <updated>2022-10-04T18:01:45+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-10-04T18:22:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Download Here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img  src="https://haruo75.github.io/redmagic/media/posts/4/image_2022-08-23_15-43-55.png" alt="" width="500" height="271"></figure>
+<p>Download <a href="https://t.me/RM5G_Tools/8" target="_blank" rel="noopener noreferrer">Here</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Custom ROM</title>
+        <title>CUSTOM ROM</title>
         <author>
             <name>Gabriel</name>
         </author>
         <link href="https://haruo75.github.io/redmagic/custom-rom.html"/>
         <id>https://haruo75.github.io/redmagic/custom-rom.html</id>
 
-        <updated>2022-10-04T18:02:39+08:00</updated>
+        <updated>2022-10-04T18:22:29+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>

@@ -13,38 +13,40 @@
         {
             "id": "https://haruo75.github.io/redmagic/unbrick-tools.html",
             "url": "https://haruo75.github.io/redmagic/unbrick-tools.html",
-            "title": "Unbrick Tools",
+            "title": "UNBRICKS TOOLS",
             "author": {
                 "name": "Gabriel"
             },
             "tags": [
             ],
             "date_published": "2022-10-04T18:02:04+08:00",
-            "date_modified": "2022-10-04T18:02:04+08:00"
+            "date_modified": "2022-10-04T18:22:59+08:00"
         },
         {
             "id": "https://haruo75.github.io/redmagic/tools.html",
             "url": "https://haruo75.github.io/redmagic/tools.html",
-            "title": "Tools",
+            "title": "TOOLS",
+            "summary": "Download Here",
+            "content_html": "<figure class=\"post__image\"><img  src=\"https://haruo75.github.io/redmagic/media/posts/4/image_2022-08-23_15-43-55.png\" alt=\"\" width=\"500\" height=\"271\"></figure>\n<p>Download <a href=\"https://t.me/RM5G_Tools/8\" target=\"_blank\" rel=\"noopener noreferrer\">Here</a></p>",
             "author": {
                 "name": "Gabriel"
             },
             "tags": [
             ],
             "date_published": "2022-10-04T18:01:45+08:00",
-            "date_modified": "2022-10-04T18:01:45+08:00"
+            "date_modified": "2022-10-04T18:22:43+08:00"
         },
         {
             "id": "https://haruo75.github.io/redmagic/custom-rom.html",
             "url": "https://haruo75.github.io/redmagic/custom-rom.html",
-            "title": "Custom ROM",
+            "title": "CUSTOM ROM",
             "author": {
                 "name": "Gabriel"
             },
             "tags": [
             ],
             "date_published": "2022-10-04T17:33:56+08:00",
-            "date_modified": "2022-10-04T18:02:39+08:00"
+            "date_modified": "2022-10-04T18:22:29+08:00"
         },
         {
             "id": "https://haruo75.github.io/redmagic/redmagic-5g5s.html",
