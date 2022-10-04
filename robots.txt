@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://haruo75.github.io/haruo75.github.io/sitemap.xml
