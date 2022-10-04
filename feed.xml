@@ -37,7 +37,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img  src="https://haruo75.github.io/redmagic/media/posts/4/image_2022-08-23_15-43-55.png" alt="" width="500" height="271"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://haruo75.github.io/redmagic/media/posts/4/image_2022-08-23_15-43-55.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://haruo75.github.io/redmagic/media/posts/4/responsive/image_2022-08-23_15-43-55-xs.png 300w ,https://haruo75.github.io/redmagic/media/posts/4/responsive/image_2022-08-23_15-43-55-sm.png 480w ,https://haruo75.github.io/redmagic/media/posts/4/responsive/image_2022-08-23_15-43-55-md.png 768w ,https://haruo75.github.io/redmagic/media/posts/4/responsive/image_2022-08-23_15-43-55-lg.png 1024w"  alt="" width="500" height="271"></figure>
 <p>Download <a href="https://t.me/RM5G_Tools/8" target="_blank" rel="noopener noreferrer">Here</a></p>
             ]]>
         </content>
