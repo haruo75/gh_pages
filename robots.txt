@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://haruo75.github.io/haruo75.github.io/sitemap.xml
+Sitemap: https://haruo75.github.io/gh_pages/sitemap.xml
